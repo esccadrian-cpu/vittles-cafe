@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Bitter, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 const bitter = Bitter({ subsets: ["latin"], variable: "--font-display" });
 const sourceSans = Source_Sans_3({
@@ -27,6 +28,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
+      <GoogleTagManager gtmId="GTM-W5G5TD9H" />
       <body className={`${bitter.variable} ${sourceSans.variable}`}>
         {children}
       </body>
