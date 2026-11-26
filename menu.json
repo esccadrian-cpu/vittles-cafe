@@ -1,0 +1,1131 @@
+{
+  "restaurant": {
+    "name": "Vittles Cafe",
+    "tagline": "Bringing the heart of the south to your plate",
+    "address": "4074 US-231 Ste A, Ozark, AL 36360",
+    "phone": "(334) 443-1019",
+    "hours": {
+      "monday": "Closed",
+      "tuesday": "7:00 AM – 8:00 PM",
+      "wednesday": "7:00 AM – 8:00 PM",
+      "thursday": "7:00 AM – 8:00 PM",
+      "friday": "7:00 AM – 8:00 PM",
+      "saturday": "7:00 AM – 4:00 PM",
+      "sunday": "7:00 AM – 2:00 PM"
+    },
+    "toast_url": "https://www.toasttab.com/local/order/vittles-cafe-4074-u-s-231-ste-a",
+    "logo_file": "~/workspace/user/files/AFC1B6C4-6B9B-4300-8970-BA57312E352C-photo-843292DB-CB86-4731-A4A5-606E7B8C0C31.jpg"
+  },
+  "categories": [
+    {
+      "name": "Breakfast Specials",
+      "note": "Specials page. Breakfast & Lunch Specials served Tuesday–Friday, 7AM–2PM only. ALL BREAKFAST DEALS $8.99. Add-ons: Country Potatoes $1.49 Ex., Cheese Grits $.99 Ex.",
+      "items": [
+        {
+          "name": "Classic Breakfast",
+          "description": "Two Eggs, Choice of Two Slices of Bacon, Sausage Links, or Sausage Patty. Choice of Hashbrowns or Grits",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Meat Lovers Scrambler",
+          "description": "Hashbrowns Scrambled w/ Two Eggs, Diced Bacon, Ham, & Sausage. Topped w/ Cheese. Choice of Grilled Biscuit or Toast",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Ham & Three Cheese Omelet",
+          "description": "Diced Ham, Blend Cheese & Cheese Sauce. Served w/ Two Pancakes or Two Slices of Toast",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Breakfast Toaster",
+          "description": "Choice of Bacon, Sausage Patty, or Ham. Topped w/ Folded Egg & Cheese. Served w/ Hashbrowns or Grits",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "(1) Sausage Gravy Biscuit",
+          "description": "Comes w/ Two Eggs. Choice of Hashbrowns or Grits",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Sausage Or Bacon Grit Bowl",
+          "description": "Topped w/ Two Eggs & Cheese. Comes w/ Toast or Grilled Biscuit",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Willie Nelson",
+          "description": "Two Pancakes, Two Eggs, & Choice of Bacon or Sausage",
+          "price_cents": 899,
+          "price_note": "Breakfast special deal price — all breakfast specials $8.99 (Tue–Fri 7AM–2PM)"
+        }
+      ]
+    },
+    {
+      "name": "Lunch Specials",
+      "note": "Specials page. Breakfast & Lunch Specials served Tuesday–Friday, 7AM–2PM only. ALL LUNCH SPECIALS $9.99. Each comes with choice of one side (see Specials Side Choices).",
+      "items": [
+        {
+          "name": "Grilled Cheese w/ Soup",
+          "description": "",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "(3) Chicken Finger Basket",
+          "description": "Choice of One Side",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Patty Melt",
+          "description": "Topped w/ Swiss Cheese & Sauteed Onions. Choice of One Side",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Single BLT",
+          "description": "Bacon, Lettuce, Tomatoes, & Mayonnaise. Served on Toasted Bread. Choice of One Side",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Chicken Salad Sandwich",
+          "description": "Chicken Salad, Mayonnaise, Lettuce, & Tomatoes. Served on Texas Toast. Choice of One Side",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        },
+        {
+          "name": "Chicken Club Wrap",
+          "description": "Grilled or Fried. Bacon, Lettuce, Tomatoes, Onions, American Cheese, & Chipotle Ranch. Wrapped in Soft Tortilla. Comes w/ One Side",
+          "price_cents": 999,
+          "price_note": "Lunch special deal price — all lunch specials $9.99 (Tue–Fri 7AM–2PM)"
+        }
+      ]
+    },
+    {
+      "name": "Specials Side Choices",
+      "note": "Side choices printed at the bottom of the Lunch Specials column on the Specials page (choice of one side with lunch specials). No separate prices printed.",
+      "items": [
+        {
+          "name": "Seasoned Fries",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        },
+        {
+          "name": "Side Salad",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        },
+        {
+          "name": "Onion Rings",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        },
+        {
+          "name": "Corn Nuggets",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        },
+        {
+          "name": "Okra",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        },
+        {
+          "name": "Hashbrowns",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice with lunch specials — no separate price printed"
+        }
+      ]
+    },
+    {
+      "name": "Cowboy Combos",
+      "note": "Breakfast page. Substitutions: Toast for One Sausage Gravy Biscuit for $1.79 Ex. · Hashbrowns for Country Potatoes for $1.49 Ex. · Pancakes for Flavored Pancakes for $2.19 Ex. · Toast for Raisin Toast for $.99 Extra. NO EGG SUBSTITUTIONS.",
+      "items": [
+        {
+          "name": "Classic Breakfast",
+          "description": "Two Eggs, Choice of Two Slices of Bacon, Sausage Links, Ham, or ONE Sausage Patty. Choice of Hashbrowns or Grits & Toast",
+          "price_cents": 1029,
+          "price_note": null
+        },
+        {
+          "name": "Ultimate Breakfast",
+          "description": "Two Slices of Bacon, Sausage Links, and Ham. Two Eggs, Hashbrowns and Grits. Two Pancakes or Toast",
+          "price_cents": 1349,
+          "price_note": null
+        },
+        {
+          "name": "Steak & Eggs",
+          "description": "Well-Seasoned Sirloin Steak, Two Eggs, Hashbrowns or Grits & Toast",
+          "price_cents": 1699,
+          "price_note": null
+        },
+        {
+          "name": "Porkchop & Eggs",
+          "description": "(2) Bone-In Grilled Porkchops, Two Eggs, Hashbrowns or Grits & Toast",
+          "price_cents": 1449,
+          "price_note": null
+        },
+        {
+          "name": "Country Fried Steak",
+          "description": "(2) Country Fried Steaks w/ Country Gravy, Two Eggs, Hashbrowns or Grits, & Two Pancakes",
+          "price_cents": 1399,
+          "price_note": null
+        },
+        {
+          "name": "Smoked Sausage",
+          "description": "(2) Jumbo Smoked Sausages, Two Eggs, Hashbrowns or Grits & Two Pancakes",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Sausage Gravy Biscuit",
+          "description": "One Open-Faced Biscuit, Smothered in Sausage Gravy, Served w/ Two Eggs, Hashbrowns or Grits & Toast (Double up with 2 biscuits for $1.99 Ex.)",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Corn Beef Hash & Eggs",
+          "description": "Corn Beef & Potato Hash, Served On A Hot Skillet",
+          "price_cents": 1349,
+          "price_note": null
+        },
+        {
+          "name": "Banana Nut Oatmeal Bowl",
+          "description": "Topped w/ Bananas, Chopped Candied Pecans, & Caramel Drizzle, Served w/ Two Raisin Toast",
+          "price_cents": 899,
+          "price_note": null
+        },
+        {
+          "name": "Meat Lovers Scrambler",
+          "description": "Hashbrowns Scrambled w/ Two Eggs, Bacon, Ham, Sausage, Topped w/ Cheese, Choice of Grilled Biscuit or Toast",
+          "price_cents": 1149,
+          "price_note": null
+        },
+        {
+          "name": "Grit Bowl",
+          "description": "Choice of Bacon, Sausage, or Ham, Two Eggs & Cheese, Choice of Biscuit or Toast",
+          "price_cents": 1029,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Off the Griddle",
+      "note": "Breakfast page. Single Order $6.99 · Combo $11.99. Combo Includes Two Eggs, Choice of One Meat Option: (2) Bacon Strips, (2) Sausage Links, (2) Ham Slices, OR (1) Sausage Patty, Hashbrowns or Grits. NO EGG SUBSTITUTIONS. Add a Compote to your Waffle, Pancakes, or French Toast for $2.19 Ex. — Caramel Cinnamon Apple, Strawberry/Banana, Banana Pudding, Cinna-Crunch, Reese's, Chocolate Chip, Strawberry, Peanut Butter/Banana.",
+      "items": [
+        {
+          "name": "(1) Berry Cheesecake Frenzy",
+          "description": "Stuffed French Toast w/ Cheesecake Filling & Strawberry Jam, Topped w/ Strawberries, Powdered Sugar & Whipped Topping",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Strawberry Danish Crepes",
+          "description": "Topped w/ Powdered Sugar & Whipped Topping",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Nutella & Banana Crepes",
+          "description": "Topped w/ Powdered Sugar & Whipped Topping",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Banana Pudding Pancakes",
+          "description": "Topped w/ Homemade Banana Pudding Filling, Sliced Bananas, Crushed Wafers, Powdered Sugar, & Whipped Topping",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Cinna-Crunch Pancakes",
+          "description": "Contains Candied Pecans. Topped w/ Powdered Sugar & Whipped Topping",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Reese Pancakes",
+          "description": "Topped w/ Peanut Butter Sauce, Chocolate Syrup, Powdered Sugar, Whipped Topping, & Chopped Reese's",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "(2) Chocolate Chip Pancakes",
+          "description": "Chocolate Pancakes, Filled w/ Chocolate Chips, Topped w/ Powdered Sugar, Whipped Topping, & Chocolate Syrup",
+          "price_cents": 699,
+          "price_note": "Off the Griddle pricing: Single Order $6.99 · Combo $11.99 (combo includes two eggs, choice of one meat, hashbrowns or grits)"
+        },
+        {
+          "name": "Chicken & Waffle",
+          "description": "",
+          "price_cents": 1249,
+          "price_note": null
+        },
+        {
+          "name": "Belgian Waffle",
+          "description": "Topped w/ Powdered Sugar & Butter",
+          "price_cents": 699,
+          "price_note": null
+        },
+        {
+          "name": "(2) Buttermilk Pancakes",
+          "description": "",
+          "price_cents": 499,
+          "price_note": null
+        },
+        {
+          "name": "(2) French Toast",
+          "description": "Topped w/ Powdered Sugar & Butter",
+          "price_cents": 499,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Omelets",
+      "note": "Breakfast page. Comes with choice of one side: Two Pancakes, Two Slices of Toast, Hashbrowns, or Grits. Country Potatoes ($1.49 Ex.), Cheese Grits (.99 Ex.).",
+      "items": [
+        {
+          "name": "Philly Cheesesteak",
+          "description": "Shaved Steak, Sauteed Onions, Bell Peppers, Hashbrowns & Melted Cheese",
+          "price_cents": 1399,
+          "price_note": null
+        },
+        {
+          "name": "Meat Lovers",
+          "description": "Bacon, Ham, Sausage, & Cheddar Cheese",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Chicken Fajita",
+          "description": "Grilled Chicken Strips, Sauteed Bell Peppers, Onions, & Cheese",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Western",
+          "description": "Ham, Onions, Bell Peppers, & Cheddar Cheese",
+          "price_cents": 1179,
+          "price_note": null
+        },
+        {
+          "name": "Veggie",
+          "description": "Green Peppers, Onions, Tomatoes, Mushrooms, Spinach, & Blend Cheese",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Ham & Three Cheese",
+          "description": "Ham, Cheese Blend, & Cheese Sauce",
+          "price_cents": 1179,
+          "price_note": null
+        },
+        {
+          "name": "Cheesy Bacon Burger",
+          "description": "Burger Bites, Crispy Bacon, Hashbrowns, Ketchup, Mustard, Cheese, & Chopped Pickles",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Cheese",
+          "description": "",
+          "price_cents": 850,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Breakfast Sammiches",
+      "note": "Breakfast page. Sandwiches come with Hashbrowns or Grits. Country Potatoes ($1.49 Ex.), Cheese Grits (.99 Ex.).",
+      "items": [
+        {
+          "name": "Toaster Sandwich",
+          "description": "Choice of Bacon, Sausage Patty, or Ham, With Folded Egg & Cheese",
+          "price_cents": 899,
+          "price_note": null
+        },
+        {
+          "name": "Biscuit",
+          "description": "Choice of Bacon, Sausage Patty, or Ham, With Folded Egg & Cheese",
+          "price_cents": 899,
+          "price_note": null
+        },
+        {
+          "name": "Pancake Sandwich",
+          "description": "Choice of Bacon or Sausage Patty, With Folded Egg & Cheese",
+          "price_cents": 999,
+          "price_note": null
+        },
+        {
+          "name": "Grilled Cheese Sandwich",
+          "description": "",
+          "price_cents": 779,
+          "price_note": null
+        },
+        {
+          "name": "Knuckle Sandwich",
+          "description": "Fried Bologna, Folded Egg, Mayo, and Cheese, Served on Grilled Texas Toast",
+          "price_cents": 999,
+          "price_note": null
+        },
+        {
+          "name": "Breakfast Burrito",
+          "description": "Choice of Bacon, Sausage Links, or Diced Ham, Hashbrowns, Scrambled Eggs, & Cheese, Served w/ Salsa",
+          "price_cents": 1029,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Skillets",
+      "note": "Breakfast page. Comes w/ Two Pancakes or Toast. Flavored Pancakes ($2.19 Ex.).",
+      "items": [
+        {
+          "name": "Green Chili",
+          "description": "Slow Roasted Shredded Pork, Sliced Onions, Cheese Blend, & Two Eggs, Served on Country Potatoes",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Fajita",
+          "description": "Fajita Seasoned Chicken Strips, Sliced Pepper & Onion Blend, Two Eggs, & Cheese, Served on Country Potatoes",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Loaded Potato Hash",
+          "description": "Served On A Sizzling Skillet — Red Skinned Potatoes w/ Pepper & Onion Blend, Bacon, Eggs, Cheese, & Sausage Gravy",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Philly Cheesesteak",
+          "description": "Shaved Steak, Sauteed Onions, Bell Peppers, & Melted Cheese, Served on Country Potatoes",
+          "price_cents": 1379,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Breakfast Sides",
+      "note": "Breakfast page.",
+      "items": [
+        {
+          "name": "Sausage Gravy Biscuits",
+          "description": "",
+          "price_cents": 459,
+          "price_note": null
+        },
+        {
+          "name": "Bowl Of White Gravy",
+          "description": "",
+          "price_cents": 159,
+          "price_note": null
+        },
+        {
+          "name": "White / Wheat Toast",
+          "description": "",
+          "price_cents": 229,
+          "price_note": null
+        },
+        {
+          "name": "Raisin Toast",
+          "description": "",
+          "price_cents": 219,
+          "price_note": null
+        },
+        {
+          "name": "Country Potatoes",
+          "description": "",
+          "price_cents": 299,
+          "price_note": null
+        },
+        {
+          "name": "Side of Compote",
+          "description": "",
+          "price_cents": 219,
+          "price_note": null
+        },
+        {
+          "name": "Bowl of Grits",
+          "description": "",
+          "price_cents": 279,
+          "price_note": null
+        },
+        {
+          "name": "Hashbrowns",
+          "description": "",
+          "price_cents": 279,
+          "price_note": null
+        },
+        {
+          "name": "(1) Egg",
+          "description": "+$1.00 Per Egg",
+          "price_cents": 179,
+          "price_note": null
+        },
+        {
+          "name": "Cheese",
+          "description": "",
+          "price_cents": 99,
+          "price_note": null
+        },
+        {
+          "name": "(2) Smoked Sausage",
+          "description": "",
+          "price_cents": 499,
+          "price_note": null
+        },
+        {
+          "name": "(2) Strips of Bacon",
+          "description": "",
+          "price_cents": 199,
+          "price_note": null
+        },
+        {
+          "name": "(2) Sausage Links",
+          "description": "",
+          "price_cents": 199,
+          "price_note": null
+        },
+        {
+          "name": "(1) Large Sausage Patty",
+          "description": "",
+          "price_cents": 199,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Starters",
+      "note": "Lunch page.",
+      "items": [
+        {
+          "name": "(6) Fried Pickle Spears",
+          "description": "",
+          "price_cents": 599,
+          "price_note": null
+        },
+        {
+          "name": "(6) Cheese Sticks",
+          "description": "",
+          "price_cents": 699,
+          "price_note": null
+        },
+        {
+          "name": "(12) Breaded Mushrooms",
+          "description": "",
+          "price_cents": 599,
+          "price_note": null
+        },
+        {
+          "name": "Basket Of Onion Rings",
+          "description": "",
+          "price_cents": 599,
+          "price_note": null
+        },
+        {
+          "name": "Loaded Fries",
+          "description": "Crispy French Fries, Smothered in Melted Cheese, Bacon, & Jalapenos",
+          "price_cents": 699,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Salads",
+      "note": "Lunch page. Extra Dressing $.99 Ex. — Ranch, Thousand Island, French, Italian, Honey Mustard, Chipotle Ranch, Raspberry Vinaigrette.",
+      "items": [
+        {
+          "name": "Chef Salad",
+          "description": "Ham, Turkey, Roast Beef, Tomatoes, Onions, Boiled Eggs, & Cheese",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Candied Pecan Chicken Salad",
+          "description": "Fried or Grilled Chicken, Tomatoes, Onions, Craisins, & Blend Cheese, Topped w/ Homemade Candied Pecans, Served w/ Raspberry Vinaigrette",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Santa Fe Chicken Salad",
+          "description": "Grilled Chicken, Santa Fe Blend, Tomatoes, Onions, & Blend Cheese, Served w/ Santa Fe Ranch",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Taco Salad",
+          "description": "Seasoned Ground Beef, Rice, Lettuce, Tomatoes, & Cheese, Served in a Crispy Tortilla Bowl",
+          "price_cents": 1079,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Baskets",
+      "note": "Lunch page. Toss your Chicken Fingers for $1.49 Ex. — Mango Habanero, Buffalo, Bourbon Honey BBQ, Carolina Reaper.",
+      "items": [
+        {
+          "name": "Chicken Finger Basket",
+          "description": "(4) Breaded Chicken Fingers w/ Fries, Served w/ Dipping Sauce",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Boneless Wing Basket",
+          "description": "(8) Crispy Saucy Wings w/ Your Choice of Flavor, Served w/ Fries",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Fish Basket",
+          "description": "(3) Cod Fillets, Fries, Coleslaw, & Hush Puppies, Comes w/ Cocktail or Tartar",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Shrimp Basket",
+          "description": "(12) Delicious Fried Shrimp, Served w/ Fries, Coleslaw, & Hush Puppies, Comes w/ Cocktail or Tartar",
+          "price_cents": 1349,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "note": "Lunch page. Burgers come w/ one side. Add Bacon $.99 Ex. | Add Cheese $.99 Ex. All ground beef is cooked to 150-165°.",
+      "items": [
+        {
+          "name": "Vittles Specialty Burger",
+          "description": "Topped w/ Pepperjack Cheese, Bacon, Sauteed Onions & Jalapenos, Lettuce, Tomatoes, & Chipotle Mayo",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Breakfast Burger",
+          "description": "Topped w/ American Cheese, Bacon, Egg 'Your Style', Mayo, & Crispy Potato Cakes",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Mushroom Swiss Burger",
+          "description": "Topped w/ Sauteed Mushrooms & Onions, Swiss Cheese, Mayonnaise, Lettuce, & Tomatoes",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Chili Cheeseburger",
+          "description": "Topped w/ Our Homemade Chili, Lettuce, Tomatoes, Onions, & Melted Cheese",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Patty Melt",
+          "description": "Topped w/ Swiss Cheese & Sauteed Onions, Served on Texas Toast",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Cowboy Burger",
+          "description": "Topped w/ Shredded BBQ Pork, Bacon, American Cheese, Onion Rings, Lettuce & Tomatoes",
+          "price_cents": 1299,
+          "price_note": null
+        },
+        {
+          "name": "Hamburger (Single)",
+          "description": "Topped w/ Lettuce, Tomatoes, Onions, Mayonnaise, & Pickles. Printed as 'Hamburger — Single $10.99 · Double $13.99'; split into two entries for the two printed prices",
+          "price_cents": 1099,
+          "price_note": "Printed with two prices: Single $10.99 · Double $13.99 (see also Hamburger (Double))"
+        },
+        {
+          "name": "Hamburger (Double)",
+          "description": "Topped w/ Lettuce, Tomatoes, Onions, Mayonnaise, & Pickles. Printed as 'Hamburger — Single $10.99 · Double $13.99'; split into two entries for the two printed prices",
+          "price_cents": 1399,
+          "price_note": "Printed with two prices: Single $10.99 · Double $13.99 (see also Hamburger (Single))"
+        }
+      ]
+    },
+    {
+      "name": "Sammiches",
+      "note": "Lunch page. Sandwiches come w/ one side.",
+      "items": [
+        {
+          "name": "Club Sandwich",
+          "description": "Turkey, Ham, Bacon, Cheese, Honey Mustard, Lettuce, & Tomatoes, Served on Toasted Bread",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Philly Cheesesteak",
+          "description": "Shaved Steak, Melted Cheese, Sauteed Onions, & Peppers, Served on a Hoagie Roll",
+          "price_cents": 1249,
+          "price_note": null
+        },
+        {
+          "name": "Chicken Salad Sandwich",
+          "description": "Homemade Chicken Salad, Lettuce, Tomatoes, & Mayonnaise, Served on Grilled Texas Toast",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Ultimate BLT",
+          "description": "Bacon, Lettuce, Tomatoes, & Mayonnaise, Piled on Toasted White Bread",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Chicken Club Wrap",
+          "description": "Fried or Grilled Chicken, Bacon, Lettuce, Tomatoes, Onions, Cheese, & Chipotle Mayo, Wrapped in a Soft Tortilla",
+          "price_cents": 1099,
+          "price_note": null
+        },
+        {
+          "name": "Southwest Wrap",
+          "description": "Grilled Chicken Strips, Black Beans, Corn, Sauteed Onions, Rice, & Chipotle Ranch, Wrapped in a Soft Tortilla",
+          "price_cents": 1199,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Lunch Sides",
+      "note": "Lunch page SIDES list — included side choices, no prices printed on the Lunch page.",
+      "items": [
+        {
+          "name": "Seasoned Fries",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        },
+        {
+          "name": "Onion Rings",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        },
+        {
+          "name": "Hashbrowns",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        },
+        {
+          "name": "Side Salad",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        },
+        {
+          "name": "Corn Nuggets",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        },
+        {
+          "name": "Okra",
+          "description": "",
+          "price_cents": null,
+          "price_note": "Included side choice — no price printed on the Lunch page"
+        }
+      ]
+    },
+    {
+      "name": "Sub-Premium Sides",
+      "note": "Lunch page. Substitute a premium side for the printed upcharge.",
+      "items": [
+        {
+          "name": "Sweet Potato Fries",
+          "description": "Substitute side upcharge",
+          "price_cents": 149,
+          "price_note": "Substitution upcharge (+$1.49)"
+        },
+        {
+          "name": "Country Potatoes",
+          "description": "Substitute side upcharge",
+          "price_cents": 149,
+          "price_note": "Substitution upcharge (+$1.49)"
+        },
+        {
+          "name": "Mac & Cheese",
+          "description": "Substitute side upcharge",
+          "price_cents": 99,
+          "price_note": "Printed '$.99' (no '+' shown, unlike the other sub-premium sides)"
+        },
+        {
+          "name": "Soup",
+          "description": "Substitute side upcharge",
+          "price_cents": 279,
+          "price_note": "Substitution upcharge (+$2.79)"
+        }
+      ]
+    },
+    {
+      "name": "Dinner Plates",
+      "note": "Dinner page. All dinners come with two sides & choice of cornbread muffin or dinner roll (excludes skillet).",
+      "items": [
+        {
+          "name": "(5) Chicken Finger Dinner",
+          "description": "",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "(2) Country Fried Steak",
+          "description": "Served w/ Brown or White Gravy",
+          "price_cents": 1399,
+          "price_note": null
+        },
+        {
+          "name": "Pork Chop Dinner",
+          "description": "Two Juicy Grilled Bone-In Porkchops",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Hamburger Steak",
+          "description": "(10oz) Served with Sauteed Mushrooms, Onions, & Brown Gravy",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Pot Roast Dinner",
+          "description": "Served w/ Caramelized Vegetables & Brown Gravy",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Sirloin Dinner",
+          "description": "(10oz) Juicy, Tender, and Cooked To Perfection",
+          "price_cents": 1899,
+          "price_note": null
+        },
+        {
+          "name": "Shrimp Scampi",
+          "description": "Topped w/ Our Scampi Sauce, Served on a bed of rice",
+          "price_cents": 1599,
+          "price_note": null
+        },
+        {
+          "name": "(2) Blackened Grilled Tilapia",
+          "description": "",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Beef Tips & Rice",
+          "description": "",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Veggie Plate",
+          "description": "Your Choice of 4 Dinner Sides",
+          "price_cents": 1199,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "note": "Dinner page. Served with salad and garlic bread. All pasta comes w/ shaved parmesan and parsley.",
+      "items": [
+        {
+          "name": "Chicken Fettucine",
+          "description": "Tender Grilled Chicken and Creamy Alfredo Sauce Served over Silky Pasta. Add Broccoli For $1.99 Extra",
+          "price_cents": 1399,
+          "price_note": null
+        },
+        {
+          "name": "Shrimp Fettucine",
+          "description": "Grilled Shrimp & Alfredo Sauce, Served Over Silky Pasta",
+          "price_cents": 1499,
+          "price_note": null
+        },
+        {
+          "name": "Spaghetti W/ Meat Sauce",
+          "description": "Our Homemade Meat Sauce Served Over Silky Pasta",
+          "price_cents": 1199,
+          "price_note": null
+        },
+        {
+          "name": "Cowboy Pasta",
+          "description": "Grilled Chicken Strips, Smoked Sausage, Sauteed Mushrooms, & Spinach Served Over Penne Pasta & Our Signature Sauce",
+          "price_cents": 1699,
+          "price_note": null
+        }
+      ]
+    },
+    {
+      "name": "Dinner Sides",
+      "note": "Dinner page. SIDE ORDERS $3.39 each. Extra Bread $1.79 Ea.",
+      "items": [
+        {
+          "name": "Sweet Potato Fries",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Country Potatoes",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Seasoned Fries",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Onion Rings",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Corn Nuggets",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Fried Okra",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Turnip Greens",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Rice & Gravy",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Coleslaw",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Mac & Cheese",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Green Beans",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Lima Beans",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Mashed Potatoes",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Steamed Broccoli",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Cinnamon Apples",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Side Salad",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Sweet Potato Casserole",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        },
+        {
+          "name": "Hashbrown Casserole",
+          "description": "Dinner side order",
+          "price_cents": 339,
+          "price_note": "Dinner side order price — all side orders $3.39 (Extra Bread $1.79 Ea.)"
+        }
+      ]
+    },
+    {
+      "name": "Kids Menu",
+      "note": "Dinner page. 12 & Under Only. Kids meals come w/ Soda, Tea, Milk, or Juice. Milk & Juices are NON-REFILLABLE. All kids meals $6.99.",
+      "items": [
+        {
+          "name": "Kiddie Breakfast",
+          "description": "Pancake, One Egg, One Bacon Strip & One Sausage Link",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "One French Toast or 1/2 Waffle",
+          "description": "One Egg, One Bacon Strip, & One Sausage Link",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "Grilled Cheese",
+          "description": "Served w/ Fries or Apple Sauce",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "Cheeseburger & Fries",
+          "description": "",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "Chicken Fingers & Fries",
+          "description": "",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "Spaghetti",
+          "description": "Served w/ Applesauce",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        },
+        {
+          "name": "Mac N' Cheese Bowl",
+          "description": "Served w/ Fries or Applesauce",
+          "price_cents": 699,
+          "price_note": "Kids meal price — all kids meals $6.99"
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "note": "Specials page. REFILLABLE $2.99 — Flavored Creamer $.99 Extra (Caramel, Mocha, & Vanilla). NON-REFILLABLE items priced individually; juices/milk Small $2.49 · Large $2.99.",
+      "items": [
+        {
+          "name": "Soda Pops (Coke Products)",
+          "description": "Refillable",
+          "price_cents": 299,
+          "price_note": "Refillable — $2.99"
+        },
+        {
+          "name": "Tea (Sweet / Unsweet)",
+          "description": "Refillable",
+          "price_cents": 299,
+          "price_note": "Refillable — $2.99"
+        },
+        {
+          "name": "Arnold Palmer",
+          "description": "Refillable",
+          "price_cents": 299,
+          "price_note": "Refillable — $2.99"
+        },
+        {
+          "name": "Coffee",
+          "description": "Refillable. Flavored Creamer $.99 Extra (Caramel, Mocha, & Vanilla)",
+          "price_cents": 299,
+          "price_note": "Refillable — $2.99"
+        },
+        {
+          "name": "Iced Coffee",
+          "description": "Non-refillable. Caramel, Mocha, & Vanilla",
+          "price_cents": 429,
+          "price_note": "Non-refillable"
+        },
+        {
+          "name": "Hot Chocolate",
+          "description": "Non-refillable",
+          "price_cents": 299,
+          "price_note": "Non-refillable"
+        },
+        {
+          "name": "Hot Tea",
+          "description": "Non-refillable",
+          "price_cents": 279,
+          "price_note": "Non-refillable"
+        },
+        {
+          "name": "Orange Juice",
+          "description": "Non-refillable",
+          "price_cents": 249,
+          "price_note": "Small $2.49 · Large $2.99"
+        },
+        {
+          "name": "Apple Juice",
+          "description": "Non-refillable",
+          "price_cents": 249,
+          "price_note": "Small $2.49 · Large $2.99"
+        },
+        {
+          "name": "Chocolate Milk",
+          "description": "Non-refillable",
+          "price_cents": 249,
+          "price_note": "Small $2.49 · Large $2.99"
+        },
+        {
+          "name": "Milk",
+          "description": "Non-refillable",
+          "price_cents": 249,
+          "price_note": "Small $2.49 · Large $2.99"
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "note": "Specials page.",
+      "items": [
+        {
+          "name": "Coconut Lush",
+          "description": "",
+          "price_cents": 399,
+          "price_note": null
+        },
+        {
+          "name": "Banana Pudding Pie",
+          "description": "",
+          "price_cents": 399,
+          "price_note": null
+        },
+        {
+          "name": "Reese's Cake",
+          "description": "",
+          "price_cents": 449,
+          "price_note": null
+        }
+      ]
+    }
+  ]
+}
